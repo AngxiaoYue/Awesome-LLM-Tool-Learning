@@ -120,6 +120,8 @@ Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Envir
 Equipping Language Models with Tool Use Capability for Tabular Data Analysis in Finance [[Arxiv](https://arxiv.org/abs/2401.15328)][[Code](https://github.com/adriantheuma/llama2-raven)]
 
 ## Benchmark
+(ShortcutsBench) ShortcutsBench: A Large-Scale Real-World Benchmark for API-Based Agents [[Arxiv](https://arxiv.org/abs/2407.00132)][[Code](https://github.com/eachsheep/shortcutsbench)]
+
 (APIBench) Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
 
 API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs [[EMNLP](https://arxiv.org/abs/2304.08244)][[Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank)]
